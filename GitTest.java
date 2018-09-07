@@ -1,5 +1,5 @@
 public class GitTest{
 public void show(){
-	System.out.println("µÚ¶þ´ÎÐÞ¸Ä");
+	System.out.println("ç¬¬äºŒæ¬¡ä¿®æ”¹");
 }
 }
